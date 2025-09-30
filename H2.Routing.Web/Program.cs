@@ -30,7 +30,7 @@ app.MapControllerRoute(
 app.MapControllerRoute(
     name: "SearchByName",
     pattern: "home/search/{name}",
-    defaults: new { Controller = "Home", Action = "SearchByName " }
+    defaults: new { Controller = "Home", Action = "SearchByName" }
     );
 
 app.MapControllerRoute(

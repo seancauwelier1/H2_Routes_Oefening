@@ -31,3 +31,4 @@ C:\programmeren\WBA_Second_Time\H2.Routing\H2.Routing.Web\obj\Debug\net8.0\refin
 C:\programmeren\WBA_Second_Time\H2.Routing\H2.Routing.Web\obj\Debug\net8.0\H2.Routing.Web.pdb
 C:\programmeren\WBA_Second_Time\H2.Routing\H2.Routing.Web\obj\Debug\net8.0\H2.Routing.Web.genruntimeconfig.cache
 C:\programmeren\WBA_Second_Time\H2.Routing\H2.Routing.Web\obj\Debug\net8.0\ref\H2.Routing.Web.dll
+C:\programmeren\WBA_Second_Time\H2.Routing\H2.Routing.Web\obj\Debug\net8.0\H2.Routing.Web.sourcelink.json
